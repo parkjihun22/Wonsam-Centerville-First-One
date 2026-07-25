@@ -184,7 +184,7 @@ const page = ({
 export const seoPages = {
   home: page({
     path: "/",
-    title: "원삼 센트레빌 퍼스트원 | 용인 원삼 오피스텔",
+    title: "▪원삼 센트레빌 퍼스트원",
     description: siteSeo.defaultDescription,
     menu: "홈",
     priority: 1,
